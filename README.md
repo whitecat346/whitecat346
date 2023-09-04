@@ -1,4 +1,4 @@
-![WhiteCAT](WhiteCAT.png)
+![WhiteCAT]([WhiteCAT.png]#pic_center)
 
 # Hi there 👋
 I'm a coder form China!
