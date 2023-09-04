@@ -11,7 +11,7 @@ Enjoy for everyday!
 ![Static Badge](https://img.shields.io/badge/-C%2B%2B-blue?logo=c%2B%2B)
 ![Static Badge](https://img.shields.io/badge/-C-blue?logo=c)
 ![Static Badge](https://img.shields.io/badge/-C%23-blue?logo=csharp)
-![Static Badge](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin)
+![Static Badge](https://img.shields.io/badge/-Kotlin-f56513?logo=kotlin)
 ![Static Badge](https://img.shields.io/badge/-Java-orange?logo=java)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitecat346&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
