@@ -1,4 +1,4 @@
-<div align="center"> <img src="WhiteCAt.png"/> </div>
+<div align="center"> <img src="WhiteCAT.png"/> </div>
 
 # Hi there 👋
 I'm a coder form China!
