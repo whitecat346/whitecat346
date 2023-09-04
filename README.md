@@ -1,4 +1,4 @@
-![WhiteCAT]([WhiteCAT.png]#pic_center)
+<div align="center"> <img src="WhiteCAt.png"/> </div>
 
 # Hi there 👋
 I'm a coder form China!
