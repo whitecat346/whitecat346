@@ -14,7 +14,7 @@ Enjoy for everyday!
 ![Static Badge](https://img.shields.io/badge/-Kotlin-f56513?logo=kotlin)
 ![Static Badge](https://img.shields.io/badge/-Java-orange?logo=java)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitecat346&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![WhiteCAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitecat346&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whitecat346&repo=QQBot-Code-for-go-cqhttp)](https://github.com/anuraghazra/github-readme-stats)
