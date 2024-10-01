@@ -15,7 +15,7 @@ Enjoy for everyday!
 [![WhiteCAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitecat346&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whitecat346&repo=QuickCommand)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whitecat346&repo=QQBotForCSharp)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whitecat346&repo=QQBot_V3)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My top language
