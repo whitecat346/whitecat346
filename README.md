@@ -1,9 +1,5 @@
 # Hi there 👋
-I'm a coder form China!
-Welocome to my GitHub page.
-If you want, we can become a good friend. :)
-
-Enjoy for everyday!
+[![autocomplete](https://codeium.com/badges/user/inscrutably-expert-finch-45151/autocomplete)](https://codeium.com/profile/inscrutably-expert-finch-45151)
 
 ![Static Badge](https://img.shields.io/badge/-.NET-8A2BE2?logo=.net&link=https%3A%2F%2Fdotnet.microsoft.com)
 ![Static Badge](https://img.shields.io/badge/-C%2B%2B-blue?logo=c%2B%2B)
