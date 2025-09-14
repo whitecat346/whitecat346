@@ -2,7 +2,7 @@
 一名底层摆烂废柴码农一名，经常游荡在各大聊天群和视频网站里，忠实二次元一名。
 
 目前在[PCL.Neo](https://github.com/PCL-Community/PCL2.Neo)里打工
-如果你想找我的话欢迎联系！whackcat@outlook.com
+如果你想找我的话欢迎联系！arctcat@outlook.com
 
 ![Static Badge](https://img.shields.io/badge/-.NET-8A2BE2?logo=.net&link=https%3A%2F%2Fdotnet.microsoft.com)
 ![Static Badge](https://img.shields.io/badge/-C%2B%2B-blue?logo=c%2B%2B)
